@@ -1,0 +1,9 @@
+.bar {
+    display: flex;
+    background-color: #615d6c;
+    justify-content: center;
+    color: #acedff;
+}
+.highlight{
+    color: #6f8ab7;
+}

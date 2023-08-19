@@ -1,0 +1,32 @@
+.track{
+    background-color: #615d6c;
+    color: white;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 12px;
+    max-width: 500px;
+    margin-left: 20px;
+    z-index: 10;
+  }
+  
+  .track-action{
+    display: inline-block;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2), 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  .track-action{
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  .track-action:hover {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3), 0px 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
